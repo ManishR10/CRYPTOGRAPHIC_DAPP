@@ -7,5 +7,12 @@ Here are the tools we'll use in this tutorial:
 4. Remix - smart contract IDE
 
 Team Members:
+
 Team Leader - Manish R
+
 Team Member - Mohamed Farhun M
+
+Team Member - Abishek R
+
+Team Member - Reyazkhan
+
