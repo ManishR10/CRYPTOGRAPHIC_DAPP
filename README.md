@@ -7,3 +7,4 @@ Here are the tools we'll use in this tutorial:
 4. Remix - smart contract IDE
 
 Team Members:
+Team Leader - Manish R
