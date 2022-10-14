@@ -10,4 +10,4 @@ contract Election {
     function setCandidate (string _name) public {
         candidateName = _name;
     }
-}
+  }
